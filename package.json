@@ -1,0 +1,30 @@
+{
+  "name": "gsmt",
+  "version": "1.0.0",
+  "description": "This module allows you to set your git personal token into any local repo.",
+  "main": "index.js",
+  "bin": {
+    "gsmt": "src/scripts/main.sh"
+  },
+  "files": [
+    "bin/",
+    "src/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisFuenTech/gsmt"
+  },
+  "bugs": "https://github.com/LuisFuenTech/gsmt/issues",
+  "keywords": [
+    "cli",
+    "javascript",
+    "npm",
+    "tools",
+    "nodejs"
+  ],
+  "author": "Luis Fuentes <luisfuentes.au@gmail.com> (https://github.com/LuisFuenTech)",
+  "license": "MIT"
+}
