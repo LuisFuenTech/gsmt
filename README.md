@@ -24,6 +24,14 @@ The minimum supported version of Node.js is v6.
 $ npm i -g gsmt
 ```
 
+## Running
+
+From the root of your project directory, where git have been initialized, run:
+
+```bash
+$ gsmt <GIT_USER> <PERSONAL_TOKEN>
+```
+
 Or use with `npx`
 
 ```bash
